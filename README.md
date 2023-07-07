@@ -12,5 +12,5 @@
 
 🤝 I’m excited to collaborate on innovative projects and eager to contribute to exciting ideas in any way I can.
 
-📫 Feel free to reach out to me via email at [example@example.com](mailto:akskan@umich.edu)
+📫 Feel free to reach out to me via email at [akskan@umich.edu](mailto:akskan@umich.edu)
  if you'd like to build something cool together or simply want to connect!
