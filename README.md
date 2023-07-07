@@ -4,7 +4,7 @@
 
 🔭 I have hands-on experience in front-end web development, particularly with technologies such as React.js and Node.js.
 
-💼 Currently, I'm currently working as a software intern at First Abu Dhabi Bank, specifically in the Group Security Office.
+💼 Currently, I'm working as a software intern at First Abu Dhabi Bank, specifically in the Group Security Office.
 
  🚀 My passion lies in creating innovative digital solutions and exploring the intersection of software development and AI. I'm driven by the idea of using technology to expand the realms of what's possible and to make a positive impact.
 
