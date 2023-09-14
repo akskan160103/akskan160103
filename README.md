@@ -1,6 +1,6 @@
 👋 Hi, I'm Akshay Kannan
 
-🎓 I'm a rising junior CSE student at the University of Michigan.
+🎓 I'm a junior CSE student at the University of Michigan.
 
 🔭 I have hands-on experience in front-end web development, particularly with technologies such as React.js and Node.js.
 
