@@ -2,9 +2,9 @@
 
 🎓 I'm a junior CSE student at the University of Michigan.
 
-🔭 I have hands-on experience in front-end web development, particularly with technologies such as React.js and Node.js.
+🔭 I have hands-on experience in full-stack development, particularly with technologies such as React.js, Node.js, and Express.js
 
-💼 Currently, I'm working as a software intern at First Abu Dhabi Bank, specifically in the Group Security Office.
+💼 I worked as a SWE intern at First Abu Dhabi Bank from May 2023 - August 2023.
 
  🚀 My passion lies in creating innovative digital solutions and exploring the intersection of software development and AI. I'm driven by the idea of using technology to expand the realms of what's possible and to make a positive impact.
 
